@@ -24,7 +24,7 @@ Chi tiết về bài tập lớn:
 
 ============== Import file code vào Eclipse ==============
 * Bước 1: Mở Eclipse [Install nếu chưa có]
-* Bước 2: Click vào File > Import > Git > Projects From Git > Clone Uri > Copy Url sau vào trường URL: ".       (cái link của cái github này nhé ).  . " > Chọn master Branch > Next > Next > Finish.
+* Bước 2: Click vào File > Import > Git > Projects From Git > Clone Uri > Copy Url sau vào trường URL: ".https://github.com/duongthanhhaii/BrickBreaker. " > Chọn master Branch > Next > Next > Finish.
 
 ============== Hướng dẫn chạy trò chơi ===============
 Những điều cần làm trước tiên:
