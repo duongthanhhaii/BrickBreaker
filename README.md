@@ -32,4 +32,4 @@ Những điều cần làm trước tiên:
 * Tải tệp BrickBreaker.rar trong mục Release rồi giải nén tệp
 Sau khi thực hiện đầy đủ, hãy làm theo các bước sau để chạy trò chơi:
 * Bước 1: Mở XAMPP Control Panel, Click "Start" Apache và MySQL.
-* Bước 2: Mở tệp vừa giải nén, chạy file BrickBreaker.rar
+* Bước 2: Mở tệp vừa giải nén, chạy file Brick_Breaker.rar
